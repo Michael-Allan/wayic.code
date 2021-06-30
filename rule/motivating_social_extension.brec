@@ -3,8 +3,12 @@ Rule of motivating social extension
     - At the earliest feasible stage of development, the wayic is to become:
 
         Ue. Attractive to engineers.
-            : see `^^Ue\.` @ `^^ Remedial contraints$`
-              @ http://reluk.ca/project/waycast/wayic/architecture.brec
+          \ : see `^^Ue\.` @ `^^ Remedial contraints$`
+          \   @ http://reluk.ca/project/waycast/wayic/architecture.brec
+            !! Obsolete form of constraint.
+                - Rather the whole project is to be rebased on techical appeal, which likely entails
+                  a far more detailed treatment of this constraint.
+                : see `^^\+ Rebase this project on techical appeal\.$`@ ../action_plan.brec
 
     - Compliance with this rule will be instrumental to the purpose of the wayic.
         : re `instrumental to the purpose` see `^^ Remedial contraints$`
